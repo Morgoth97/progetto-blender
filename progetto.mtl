@@ -1,0 +1,130 @@
+# Blender MTL File: 'progetto.blend'
+# Material Count: 11
+
+newmtl Cristallo
+Ns 163.085888
+Ka 1.000000 1.000000 1.000000
+Kd 0.012952 0.800000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 2.000000
+d 1.000000
+illum 2
+
+newmtl CristalloInt
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Legno
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump paintedWood\\PaintedWood005_2K_Normal.jpg
+map_Kd paintedWood\\PaintedWood005_2K_Color.jpg
+map_Ns paintedWood\\PaintedWood005_2K_Roughness.jpg
+
+newmtl LegnoPortone
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump medieval_wood\\medieval_wood_Nor_2k.jpg
+map_Kd medieval_wood\\medieval_wood_spec_2k.jpg
+map_Ns medieval_wood\\medieval_wood_rough_2k.jpg
+
+newmtl Montagna
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mura
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump rock\\Rock035_2K_Normal.jpg
+map_Kd rock\\Rock035_2K_Color.jpg
+map_Ns rock\\Rock035_2K_Roughness.jpg
+
+newmtl Mura2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump marble\\Marble009_2K_Normal.jpg
+map_Kd marble\\Marble009_2K_Color.jpg
+map_Ns marble\\Marble009_2K_Roughness.jpg
+
+newmtl Neve
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump snow\\Snow005_2K_Normal.jpg
+map_Kd snow\\Snow005_2K_Color.jpg
+map_Ns snow\\Snow005_2K_Roughness.jpg
+
+newmtl Particella
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tegole
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump roofingTiles\\RoofingTiles004_2K_Normal.jpg
+map_Kd roofingTiles\\RoofingTiles004_2K_Color.jpg
+map_Ns roofingTiles\\RoofingTiles004_2K_Roughness.jpg
+
+newmtl Vetrata
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
